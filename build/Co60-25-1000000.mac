@@ -1,0 +1,63 @@
+/run/initialize
+/gps/pos/centre 29.45 0 0 cm
+/gps/direction -1 0 0
+
+/gps/source/intensity 0.2853
+/gps/particle gamma
+/gps/ene/mono 0.121 MeV
+
+/gps/source/add 0.2087
+/gps/particle gamma
+/gps/ene/mono 1.408 MeV
+
+/gps/source/add 0.1451
+/gps/particle gamma
+/gps/ene/mono 0.964 MeV
+
+/gps/source/add 0.1367
+/gps/particle gamma
+/gps/ene/mono 1.112 MeV
+
+/gps/source/add 0.1011
+/gps/particle gamma
+/gps/ene/mono 1.085 MeV
+
+/gps/source/add 0.2659
+/gps/particle gamma
+/gps/ene/mono 0.344 MeV
+
+/gps/source/add 0.1293
+/gps/particle gamma
+/gps/ene/mono 0.778 MeV
+
+/gps/source/add 0.022
+/gps/particle gamma
+/gps/ene/mono 0.411 MeV
+
+/gps/source/add 0.017
+/gps/particle gamma
+/gps/ene/mono 1.089 MeV
+
+/gps/source/add 0.016
+/gps/particle gamma
+/gps/ene/mono 1.299 MeV
+
+/gps/source/add 0.074
+/gps/particle gamma
+/gps/ene/mono 0.24469 MeV
+
+/gps/source/add 0.0304
+/gps/particle gamma
+/gps/ene/mono 0.44398 MeV
+
+/gps/source/add 0.0409
+/gps/particle gamma
+/gps/ene/mono 0.867 MeV
+
+/gps/source/add 0.0138
+/gps/particle gamma
+/gps/ene/mono 1.21295 MeV
+
+
+/run/printProgress 1000000
+/run/beamOn 1000000

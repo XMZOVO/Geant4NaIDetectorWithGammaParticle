@@ -1,0 +1,8 @@
+/Users/roy/Documents/Geant4EX/lrd_v1/build/CMakeFiles/install/local.dir
+/Users/roy/Documents/Geant4EX/lrd_v1/build/CMakeFiles/install/strip.dir
+/Users/roy/Documents/Geant4EX/lrd_v1/build/CMakeFiles/install.dir
+/Users/roy/Documents/Geant4EX/lrd_v1/build/CMakeFiles/list_install_components.dir
+/Users/roy/Documents/Geant4EX/lrd_v1/build/CMakeFiles/rebuild_cache.dir
+/Users/roy/Documents/Geant4EX/lrd_v1/build/CMakeFiles/edit_cache.dir
+/Users/roy/Documents/Geant4EX/lrd_v1/build/CMakeFiles/lrd.dir
+/Users/roy/Documents/Geant4EX/lrd_v1/build/CMakeFiles/lrdrun.dir
